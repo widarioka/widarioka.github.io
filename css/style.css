@@ -73,6 +73,10 @@ a:active {
     .menu-atas li img {
         vertical-align: middle;
     }
+    .menu-atas .active {
+        color: green;
+        text-decoration: underline ;
+    }
 /* End Menu Atas */
 
 /* Start Menu Primer */
@@ -259,6 +263,12 @@ a:active {
   margin: 0;
   text-transform: uppercase;
 }
+.snip1585 p {
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    margin: 0;
+  }
 
 .snip1585 h3 span {
   display: block;
