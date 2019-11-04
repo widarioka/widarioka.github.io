@@ -2,7 +2,7 @@
     body {
         background-color: lightgoldenrodyellow;
         color: #24292e;
-        font-family: 'Segoe UI', sans-serif;
+        font-family: sans-serif;
         font-size: 16px;
         line-height: 1.5em;
         margin: 0;
@@ -75,7 +75,7 @@ a:active {
     }
     .menu-atas .active {
         color: green;
-        text-decoration: underline ;
+        text-decoration: underline;
     }
 /* End Menu Atas */
 
